@@ -22,3 +22,8 @@ Website:
 
 Thermal Springs API https://www.arcgis.com/home/item.html?id=b4e8785f0f75464b9e08547ccf0b18d7
 
+## 4.16.24
+Morning start with planning out project
+10 - 10:45 personal meeting
+Mapping out project and making plan
+
