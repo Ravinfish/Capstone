@@ -20,3 +20,5 @@ Cost:
 Is there lodging?:
 Website:
 
+Thermal Springs API https://www.arcgis.com/home/item.html?id=b4e8785f0f75464b9e08547ccf0b18d7
+

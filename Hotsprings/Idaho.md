@@ -36,7 +36,7 @@ Fri – Sun for Ages 3 & older
 Summer*:	  $22.00	 
 Winter*:	  $16.00
 
-Is there lodging?:
+Is there lodging?: No, but several lodging options in the area includes camping and hotels
 Website: https://lavahotsprings.com/
 Description: Pure all natural hot spring mineral water
 
