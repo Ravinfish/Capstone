@@ -27,3 +27,13 @@ Morning start with planning out project
 10 - 10:45 personal meeting
 Mapping out project and making plan
 
+## 4.17.24
+
+Morning - I had to take my mom to urgent care, so I wasn't able to get much done.
+
+Afternoon - Built out a home page and got that functioning
+
+## 4.18.24 
+
+Working on MapBox API
+
