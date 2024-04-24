@@ -37,3 +37,22 @@ Afternoon - Built out a home page and got that functioning
 
 Working on MapBox API
 
+## 4.22.24
+
+9-9:30 prepping for interview with PupPod
+9:30 -10:35 Interview with PupPod
+10:35 - 11:30 discussion regarding interview with PupPod
+Afternoon - Work on Mapbox API
+
+## 4.23.24
+
+Morning - work on Mapbox API/watch tutorials
+Afternoon - 
+
+## 4.24.24
+
+Workign on fresh idea/new project. I think I've decided to scrap my original project and start something different.
+9:55 - 11:15 Working on an assessment for next steps from a job application submitted.
+1:30 - 2 prep for interview with SignedPic
+2-2:45 SignedPic interview
+
