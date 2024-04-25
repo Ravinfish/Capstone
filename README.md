@@ -56,3 +56,9 @@ Workign on fresh idea/new project. I think I've decided to scrap my original pro
 1:30 - 2 prep for interview with SignedPic
 2-2:45 SignedPic interview
 
+## 4.25.24
+
+Interview from 10-10:45 with Opine/Fill Marketing
+After, travel to classroom
+Afternoon - working on setting up new project; added models
+
