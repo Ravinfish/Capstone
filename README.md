@@ -62,3 +62,10 @@ Interview from 10-10:45 with Opine/Fill Marketing
 After, travel to classroom
 Afternoon - working on setting up new project; added models
 
+## 5.1.24 
+
+Spent all day working on bugs and getting project to run. Was able to get full CRUD and have everything functioning.
+
+## 5.2.24
+
+Worked on styling all day. 
